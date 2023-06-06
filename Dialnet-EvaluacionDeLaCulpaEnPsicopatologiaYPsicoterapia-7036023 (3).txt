@@ -1,0 +1,1122 @@
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+119
+
+EVALUACIÓN DE LA CULPA EN PSICOPATOLOGÍA Y
+PSICOTERAPIA: INSTRUMENTOS DISPONIBLES
+GUILT ASSESSMENT IN PSYCHOPATHOLOGY AND
+PSYCHOTHERAPY: AVAILABLE INSTRUMENTS
+Marta González González
+Psicóloga Interna Residente
+Servicio de Salud del Principado de Asturias. Asturias. España
+ORCID: https://orcid.org/0000-0001-5623-2618
+
+Jairo Voces Oviedo
+Enfermero y Graduado en Psicología
+Servicio de Salud del Principado de Asturias. Asturias. España
+ORCID: https://orcid.org/0000-0003-0508-471X
+
+Juan Manuel García-Haro
+FEA Psicología Clínica
+Servicio de Salud del Principado de Asturias. Asturias. España
+ORCID: https://orcid.org/0000-0002-0250-1330
+Cómo referenciar este artículo/How to reference this article:
+
+ISSN: 1130-5142 (Print) –2339-7950 (Online)
+
+González González, M., Voces Oviedo, J. y García-Haro, J. M. (2019). Evaluación de la culpa en
+psicopatología y psicoterapia: Instrumentos disponibles. Revista de Psicoterapia, 30(113), 119-139.
+https://doi.org/10.33898/rdp.v30i113.306
+
+Resumen
+
+Abstract
+
+La culpa se ha asociado a una gran variedad de
+disfunciones psíquicas en la vida adulta. Esto hace que
+en la práctica clínica sea importante su evaluación y
+tratamiento. El objetivo de este trabajo es revisar qué
+instrumentos existen para evaluar la culpa en adultos
+y detectar qué necesidades y carencias nos encontramos en la investigación en este campo. Se realizó una
+revisión sistemática de los instrumentos propuestos
+para la medida de la culpa en psicopatología y psicoterapia. Se han encontrado 10 cuestionarios. La mayoría proporcionan escaso o ningún apoyo psicométrico.
+Son pocos los que han sido adaptados y validados en
+población española, lo que limita su aplicabilidad en la
+práctica clínica y la investigación.
+Palabras clave: culpa, psicopatología, evaluación,
+psicoterapia.
+
+Guilt has been associated with a wide variety of psychic
+dysfunctions in adult life. This makes its assessment and
+treatment important in clinical practice. The objective
+of this work is to review what instruments exist to assess
+the guilt in adults and detect what needs and
+shortcomings we find in research in this field. A
+systematic review of the instruments proposed for the
+measurement of guilt in psychopathology and
+psychotherapy was carried out. Ten questionnaires
+have been found. Most provide little or no psychometric
+support. Few have been adapted and validated in the
+Spanish population, which limits its applicability in
+clinical practice and research.
+Keywords: guilt, psychopathology, assessment,
+psychotherapy.
+
+Fecha de recepción: 6 de mayo de 2019. Fecha de aceptación: 30 de mayo de 2019.
+Correspondencia sobre este artículo:
+E-mail: martagg118@gmail.com
+Dirección postal: C/Cervantes, 21, 2ºA. 33004 Oviedo, Asturias. España
+
+© 2019 Revista de Psicoterapia
+
+120
+
+Evaluación de la culpa
+
+Así seguimos, golpeándonos, barcas contracorriente, devueltos sin cesar al
+pasado.
+(El Gran Gatsby, F. Scott Fitzgerald, 2015, p.170).
+INTRODUCCIÓN
+La culpa está presente en nuestra vida cotidiana. Es un sentimiento útil para las
+relaciones sociales y especialmente para los vínculos con las personas que más nos
+importan. La persona que se siente culpable siente la necesidad de reparar de algún
+modo la falta, pedir disculpas o enmendar la acción indebida. La culpa anticipada
+ayuda a preservar las relaciones interpersonales al favorecer que acciones dañinas
+no se produzcan. Según cómo se afronte el sentimiento de culpa, éste puede generar
+un malestar clínico. De ahí el interés para la psico(pato)logía y la psicoterapia.
+La culpa no sólo es un mero síntoma o criterio diagnóstico de algunos
+trastornos psicológicos, sino también un factor causal implicado en la génesis y/o
+mantenimiento de los mismos. La presencia de procesos de culpa puede dificultar
+el proceso terapéutico y ser un indicador de mal pronóstico o de complicaciones en
+el curso de la ayuda, véase por ejemplo en los procesos de duelo.
+Existe una amplia literatura clínica que relaciona culpa y psicopatología
+(Castilla del Pino, 1973, 2000; Colina, 2001, 2011; Freud, 1974; Grinberg, 1983,
+2005; Klein, 2016; Lewis, 1971; Pereña, 2001; Pérez-Sales, 2006; Villagrán, 2011;
+Villegas, 2017). También existen estudios empíricos que apuntan en esta dirección
+(Harder, 1995; Harder, Cutler y Rockart, 1992). En consecuencia, su evaluación y
+tratamiento es central en el ámbito clínico. No en vano, en los últimos años, se han
+desarrollado diferentes propuestas de intervención terapéutica sobre procesos de
+culpa (García-Haro, 2014a,b,c; Pérez-Sales, 2006; Villegas, 2011, 2013, 2017).
+Actualmente no existe una definición operativa y consensuada de sentimiento
+de culpa. Se podría utilizar la siguiente:
+“La culpa es un afecto doloroso que surge de la creencia o sensación de
+haber transgredido las normas éticas personales o sociales, sobre todo
+cuando de la conducta (u omisión) de una persona ha derivado un daño a
+otra” (Echeburúa, Corral y Amor, 2001, p. 908).
+Lewis (1971) la define como sentimientos de remordimiento por comportamientos deshonestos y/o preocupación por un perjuicio, real o imaginado.
+Según Castilla del Pino, el rasgo fundamental de la culpa es el sentimiento que
+la acompaña. No sería exactamente pena ni tristeza, sino “pesar” o “pesadumbre”
+(Castilla del Pino, 1973).
+En estas definiciones, y en otras similares, se describe la experiencia de la
+culpa tal y como se vivencia en la actualidad en nuestra cultura occidental. En
+esencia, dicha experiencia implica un conjunto o gestalt de elementos: una emoción
+dolorosa, que surge como consecuencia de una transgresión (real o imaginaria) de
+una norma moral o valor personalmente asumido, sobre todo cuando de la conducta
+(u omisión) indebida se deriva un daño o perjuicio (real o imaginario) para otra
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+121
+
+persona. Como se puede apreciar, los aspectos morales y relacionales están en el
+núcleo de la definición de culpa. A lo anterior habría que añadir la creencia por parte
+del protagonista de que la conducta indebida (externa o interna) estaba bajo su
+control y que, por tanto, era evitable (García-Haro, 2014a).
+En la práctica clínica son comunes las siguientes combinaciones: el sujeto que
+habiendo cometido una transgresión moral (real o imaginaria) se siente culpable
+aunque no haya causado daño o perjuicio a otra persona (caso del obsesivo que se
+culpa por pensar cosas “malas” o de Archibaldo de la Cruz, en la película de Patiño
+y Buñuel Ensayo para un crimen); la persona que habiendo cometido un perjuicio
+objetivo a otra persona se siente culpable aunque no haya cometido ninguna
+transgresión moral (caso de quien atropella a un caminante que cruzó indebidamente una calle); o el sujeto que habiendo cometido una transgresión moral (al menos
+socialmente) de la que se deriva un daño real, no se siente nada culpable y acaso
+hasta se sienta “víctima” (caso de muchos maltratadores machistas). Finalmente,
+estaría la persona que siendo víctima de una agresión, se siente culpable de ello
+(caso de algunas personas abusadas sexualmente).
+Clásicamente, la culpa y la vergüenza, al menos en su versión desadaptativa,
+se han considerado elementos importantes en la dinámica generadora de muchos
+trastornos psicológicos. Lewis (1971) distingue estas dos emociones interrelacionadas
+mediante el papel desempeñado por el self en ellas. En la culpa, el foco se centra en
+la acción realizada. En cambio, en la vergüenza, el self es el foco de evaluación y
+escrutinio, lo que constituye una experiencia debilitante que conlleva a menudo a
+una crisis de identidad que provoca una parálisis, por lo menos temporal. Esto no
+ocurre en la culpa, en la que la evaluación se centra no tanto “en lo que soy”, sino
+“en lo que he hecho”, acompañándose de remordimiento y de deseos de reparación,
+y, por tanto, de actuar. La distinción self/conducta cuenta con bastante apoyo
+empírico (Tangney, 1990a, 1995; Tangney y Dearing, 2002).
+La relevancia de los sentimientos de culpa y su regulación moral en el ámbito
+de la psicología clínica resulta indudable (Villegas, 2017). Sin embargo, apenas
+existen investigaciones empíricas al respecto. Esto se debe principalmente a tres
+razones:
+1. Una primera razón es conceptual. La culpa es una emoción compleja. Se
+requiere como condición necesaria el desarrollo de cierta noción del yo. Resulta
+difícil encontrar en los manuales de psicopatología al uso, un marco teórico
+consensuado acerca de qué se entiende por culpa, cómo se evalúa, cómo funciona
+en la dinámica psicopatológica, cuando es adaptativa y cuando deja de serlo, y,
+sobre todo, cómo se afronta en la vida cotidiana y en la práctica psicoterapéutica.
+Habitualmente el tratamiento que se hace en psicología y psiquiatría de la culpa (y
+en general de las emociones) es presentándola como si fuera una entidad natural. Es
+decir, como si siempre hubiese existido, no construida, disociada de las prácticas
+sociohistóricas. Pero, como otras muchas nociones “científicas” que forman parte
+de la cultura psicológica, esto no es así. Las categorías psicológicas que utilizamos
+
+122
+
+Evaluación de la culpa
+
+para dar cuenta de la acción humana en general, y las referidas al desarrollo moral
+en particular, no pueden separarse sin ingenuidad de las prácticas sociales (religiosas, morales, jurídicas, científicas, etc.) que las han conformado históricamente.
+Repárese a modo ilustrativo en que la culpa del depresivo actual no es igual a la del
+campesino cristiano medieval (García-Haro, 2015).
+2. Otra razón es operativa. Resulta difícil evaluar la culpa mediante instrumentos psicométricos. Existe el problema de las diferencias semánticas en diversas
+culturas. Esto impide establecer conclusiones generales. Por ejemplo, el término
+inglés shame se halla más cercano a lo que para nosotros es la culpa que el término
+castellano “vergüenza”. Por otro lado, no se pueden evaluar los aspectos inconscientes de la culpa mediante cuestionarios. Los sentimientos de culpa han constituido un pilar fundamental del pensamiento psicoanalítico desde las primeras
+teorizaciones de Freud sobre el complejo de Edipo, los orígenes del superyó y la
+génesis de determinados trastornos neuróticos, tales como la melancolía y la
+neurosis obsesiva. Su relevancia fue analizada no solo a nivel de individuo sino
+también a nivel colectivo donde reaparece como un elemento fundamental en el
+nacimiento de la cultura (Freud, 1974).
+3. Pero probablemente, la razón más importante sea metodológica. La investigación psicopatológica actual se interesa en el establecimiento de relaciones de
+causalidad entre ciertas variables y determinados trastornos, de forma que sea
+posible la explicación, predicción y control de la conducta psicopatológica (Chorot,
+Pérez-Llantada y Sandín, 2008). Para conseguir este fin, se pueden seguir dos rutas
+bien diferenciadas: 1) la que parte de los diagnósticos clínicos (DSM/CIE) para, a
+partir de ahí, estudiar sus procesos explicativos subyacentes (alteraciones de
+atención, memoria, razonamiento, etc.), y 2) la que parte de los procesos psicológicos (véase los procesos afectivos), para, a partir de ahí, estudiar su influencia en
+la génesis, inicio o mantenimiento, de los diferentes trastornos mentales. Cada
+opción tiene sus ventajas y desventajas. La ruta más utilizada por los psicopatólogos
+experimentales es la primera. En nuestra opinión, la más útil, al menos desde un
+punto de vista terapéutico, sería la segunda.
+Sólo en las últimas décadas se ha iniciado el estudio empírico de la culpa y sus
+efectos. Si bien desde una perspectiva básica (desde la psicología de la emoción y
+del desarrollo moral) más que desde un enfoque aplicado a la clínica. Existe un
+sólido cuerpo de evidencia que muestra que la vergüenza es una emoción central en
+la dinámica generadora de muchos procesos y trastornos psicopatológicos, tanto en
+la infancia como en adultos (Villagrán, 2011). Sin embargo, la relación entre culpa
+y psicopatología es menos clara. Hay estudios que apuntan a que los efectos
+patológicos de la culpa se producirían sólo cuando la culpa apareciera fusionada a
+la vergüenza. Es entonces cuando la culpa llevaría a la rumia obsesiva y al
+autocastigo. Se trata esta última de una tesis que está en investigación y aún no
+resuelta (Tangney y Dearing, 2002). En contraste, los datos empíricos apuntan a que
+la culpa es una emoción más positiva que la vergüenza en el plano interpersonal
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+123
+
+(Etxebarria, 2014), sobremanera cuando se asocia a la empatía (Hoffman, 1998,
+2000).
+A la hora de evaluar la culpa se han utilizado diferentes procedimientos. Se han
+utilizado técnicas proyectivas en las que se solicita a la persona que complete
+historias incompletas con argumentos de alguna transgresión (test de historias
+incompletas). Se ha observado directamente la conducta del sujeto después de que
+haya cometido una transgresión. Esto se ha hecho con niños, mediante la observación de las expresiones faciales. De este modo, se sabe que el sentimiento de culpa
+se detecta durante el segundo año de vida, así como otras emociones secundarias o
+complejas, como el desconcierto, la vergüenza, la envidia y el orgullo, que son las
+que requieren para su expresión una mayor interacción sociocultural (Lewis, 1992;
+Stipek, Recchia, McClintic y Lewis, 1992). En la práctica clínica, la manera más
+común de medir la culpa es a través de la entrevista y mediante el uso de
+autoinformes (inventarios, cuestionarios y escalas). Aunque el sentimiento de culpa
+es un ítem frecuentemente presente en numerosos cuestionarios de evaluación
+clínica (véase el BDI, el LSB-50, etc.), y hasta muchos cuestionarios incluyen
+subescalas de culpa (véase el factor L del 16PF de Cattell), lo cierto es que pocos
+cuestionarios estudian específicamente la culpa y sus procesos.
+El objetivo de este trabajo es revisar qué instrumentos existen para evaluar la
+culpa en adultos y detectar qué necesidades y carencias nos encontramos en la
+investigación en este campo.
+MÉTODO
+Se realizó una revisión sistemática de los instrumentos propuestos para la
+medida de la culpa en psicopatología y psicoterapia. Se empieza por una búsqueda
+de la literatura primaria en las diferentes bases de datos relacionadas con el tema del
+estudio: “PubMed”, “Medline”, “PsycINFO” y “Psicodoc”. Se utilizan palabras
+clave tanto libres como indexados (descriptores seleccionados del tesauro). Los
+descriptores de búsqueda (términos MESH) introducidos han sido: “guilt”; “shame”;
+“evaluation”; “self report”. Se realizaron numerosas combinaciones utilizando
+operadores booleanos, truncamientos y comodines. Se limitó la búsqueda a estudios
+en inglés y castellano, publicados entre el 1 de enero de 2000 y el 31 de diciembre
+de 2018. Como filtro de búsqueda se usó el idioma (“inglés” y “español”) y un
+criterio temporal (“últimos 18 años”). Todos los títulos y resúmenes encontrados
+por la estrategia de búsqueda anterior fueron filtrados según la pertinencia para el
+objetivo del estudio. En un segundo momento, se utilizaron algunas de las
+referencias propuestas en los resultados arrojados para llegar a nuevas fuentes
+bibliográficas. A mayores, se incluyeron datos obtenidos de estudios encontrados
+a través de una búsqueda por la conocida como “literatura gris” o “no convencional”. La anterior estrategia de búsqueda fue actualizada hasta 31.12.2018.
+
+124
+
+Evaluación de la culpa
+
+RESULTADOS
+A continuación, se presentan los resultados de la búsqueda. En primer lugar,
+se describen los instrumentos disponibles en castellano. Posteriormente, los disponibles en lengua inglesa, algunos aún no validados en población española. Para cada
+uno se proporciona una referencia bibliográfica, una breve descripción de la escala
+y del modo como fue confeccionada, así como información psicométrica sobre su
+validez y fiabilidad. Finalmente, en cada sección se puede encontrar una tabla
+resumen de los instrumentos descritos.
+Instrumentos disponibles en castellano
+1. Escala de culpa en relaciones de pareja (Álvarez, García y Rivera, 2014)
+Se trata de una escala multidimensional para evaluar las dimensiones que
+integran la culpa en la relación de pareja. La validación del instrumento se llevó a
+cabo en dos etapas. La primera tuvo como objetivo identificar los componentes
+involucrados en las manifestaciones de culpa, sus causas y consecuencias en la
+interacción de pareja. Consistió en un análisis exploratorio realizado a través de la
+técnica de redes semánticas, con base en que a través del lenguaje cotidiano de los
+individuos se puede conocer la representación de algún fenómeno. Para ello, se
+utilizó un cuestionario con frases-estímulo dirigidas a evaluar el significado, las
+causas, las consecuencias y los aspectos cognitivos, conductuales y emocionales de
+la culpa. Por ejemplo: “Siento culpa con mi pareja cuando…”, “Cuando me siento
+culpable con mi pareja pienso…” y “La culpa en mi relación de pareja ocasiona…”.
+Los sujetos tenían que escribir de 5 a 10 palabras que describieran cada uno de los
+estímulos presentados. Posteriormente y con la información obtenida, se elaboró
+una escala tipo Likert, con seis intervalos de respuesta desde 1 (totalmente en
+desacuerdo) a 6 (totalmente de acuerdo), que fue validada en la segunda etapa
+mediante un análisis factorial exploratorio de componentes principales con rotación
+ortogonal. En una segunda fase, se obtuvo la validez de constructo con una muestra
+de 850 participantes de la Ciudad de México. La escala de culpa en la relación de
+pareja quedó integrada por un total de 72 reactivos, distribuidos en cinco subescalas,
+con un Alfa de Cronbach global de .929 y una varianza explicada de 63.13. La
+estructura factorial se comprobó a partir de ecuaciones estructurales, obteniéndose
+índices de bondad de ajuste adecuados, por lo que se puede concluir que es un
+instrumento válido.
+Las cinco subescalas son las siguientes:
+1. Significado de la culpa: se comprobó que es percibida en la relación de
+pareja como algo negativo que va en contra de sus valores y que genera malestar al
+reflexionar sobre el daño causado a la pareja. Por otro lado, destaca el componente
+empático, pues los sujetos informaron de que es importante preocuparse por el
+bienestar de la pareja y consideran necesario la manera de reparar el daño causado.
+2. Causas de la culpa: las más frecuentes tienen que ver con situaciones en las
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+125
+
+que se percibe el sufrimiento de la pareja como consecuencia de sus acciones. Sobre
+todo en relación a la violencia y a la falta de compromiso por parte de uno de los
+miembros de la pareja (como no escuchar a la pareja, evitarla, dedicarle poco
+tiempo…).
+3. Consecuencias de la culpa: los datos obtenidos indican que la culpa provoca
+conflicto y ansiedad en la pareja.
+4. Revaloración: los miembros de la pareja reflexionan sobre las emociones
+negativas que les provoca, pensar en qué hicieron mal, en acciones de corrección
+y en cómo evitar esta experiencia, como resultado de sentir remordimiento, tristeza
+y arrepentimiento por el daño causado a su pareja.
+5. Efectos de la culpa: esta subescala permite conocer qué acciones llevan a
+cabo las personas para reparar el daño que causan a su pareja. Se identificaron varios
+factores: el primero tiene que ver con la reparación del daño, es decir, resolver la
+situación y enmendar el sufrimiento de la pareja. De acuerdo con los participantes,
+esto se realiza a través de conductas tales como hablar para resolver la situación,
+ponerse en el lugar del otro, demostrarle afecto, pedir perdón, recuperar la confianza
+y ser más atento con la pareja. Estas conductas van dirigidas específicamente a
+procurar que el otro se sienta mejor. Los otros factores buscan principalmente el
+beneficio propio. Un ejemplo de esto sería la compensación que trata de reparar la
+mala conducta a través de regalos. Este hecho parece tener la finalidad de que la
+pareja se sienta mejor, aunque en el fondo no le interese su bienestar emocional.
+Otro aspecto negativo de esta subescala es la manipulación y el chantaje.
+Según los autores, se pudo concluir que la culpa es una emoción que representa
+un papel determinante en las relaciones de pareja. Cuando un integrante de la pareja
+se considera responsable del sufrimiento del otro, motiva conductas dirigidas a la
+reparación del daño y a la autocorrección, lo que lleva a la mejora de sus relaciones.
+Estos aspectos se ven reflejados en la escala multidimensional de culpa, que con sus
+subescalas y factores, discriminan adecuadamente entre los dos aspectos positivos
+y negativos.
+2. Escala de Sentimiento de Culpa (SC-35; Zabalegui, 1993, 1997)
+Es un cuestionario de lápiz y papel de 35 ítems (hay otra versión de 32)
+elaborado con una muestra española. Tiene cuatro categorías de respuesta: falso (=1
+punto), más falso que verdadero (= 2 puntos), más verdadero que falso (= 4 puntos)
+y verdadero (= 5 puntos). Los ítems negativos, es decir, que afirman algo contrario
+a la culpabilidad (el 1 y el 31) reciben una puntuación inversa: falso (= 5 puntos),
+más falso que verdadero (= 4 puntos), más verdadero que falso (= 2 puntos) y
+verdadero (= 1 punto). A un ítem sin contestar o contestado incorrectamente (por
+ejemplo, con dos respuestas) se le adjudican 3 puntos. La suma de todos los puntos
+obtenidos en los 35 ítems es la puntuación total. A mayor puntuación total en la
+escala, mayor tendencia a experimentar sentimientos de culpa. Con una muestra de
+396 universitarios de ambos sexos, la media obtenida fue igual a 82 y la desviación
+
+126
+
+Evaluación de la culpa
+
+típica igual a 20.
+Procede del estudio de las principales aportaciones a la culpa hechas por
+diferentes modelos psicológicos. Integra múltiples dimensiones que aparecen
+involucradas en el concepto de culpa. Entre ellos los siguientes: labilidad emocional, baja autoestima, la culpa como mancha, tendencia intrapunitiva, autodesprecio,
+remordimiento, reparación, reacción por haber recibido anteriormente muchos
+castigos, culpa existencial, vergüenza, angustia producida por un superyó muy
+fuerte e insatisfacción por la vida pasada. Tras el análisis factorial se aislaron los
+siguientes factores:
+Factor I. Autodesprecio: definido como asco de sí mismo; lo componen los
+ítems 34, 27 y 35 (e.g.: “A veces he sentido asco de mí mismo”).
+Factor II. Aprensión: definido como tendencia a culpabilizarse sin motivo
+(culpa infundada). Lo componen los ítems 20, 5, 4, 13 y 8 (e.g.: “Cuando cometo
+un error, por pequeño que sea, lo paso muy mal”).
+Factor III. Vergüenza y mancha: la primera se define como un sentimiento que
+aparece siempre relacionado con la visión que tienen los otros. La segunda muestra
+la culpa como algo físico que infecta. Lo componen los ítems 16, 17, 21, 22, 11, 1
+y 35. Es uno de los aspectos más primitivos de la culpa (e.g.: “Si pudiera limpiarme
+de toda culpa, me quitaría un peso de encima”).
+Factor IV. Sentimiento de indignidad en toda relación: definido como la
+incapacidad de amar o ser amado sin sentir culpa; lo componen los ítems 18, 12,14
+y 13 (e.g.: “Tengo la sensación de ‘romper’ todo aquello que toco”).
+Factor V. Necesidad de reparación: definido como la disposición a enmendar,
+a arreglar el mal realizado, a pagar las deudas contraídas; lo componen los ítems 33
+y 6 (e.g.: “Es imperdonable por mi parte no corresponder a aquellos que me
+quieren”).
+Factor VI. Insatisfacción con la vida pasada: definido como aquel sentimiento
+molesto, no verbalizado, indecible, que proviene de los fallos cometidos durante el
+pasado. El comportamiento anterior pesa, culpabiliza. Lo componen los ítems 9, 7
+y 31 (e.g.: “Hay cosas en mi pasado de las que no quiero ni acordarme”).
+Además de los seis factores anteriores, también se detectan, aunque en menor
+medida, algunos otros que añaden matices a la experiencia de culpa en algunas
+personas. Por ejemplo, sentir el desagrado de un superyó exigente, sufrir depresión
+por una baja autoestima o vivir la angustia de defraudar las expectativas de los
+otros.
+Ejemplos de ítems serían: “Cada vez que me sale algo mal, pienso que cada
+uno tiene lo que se merece” y “Temo que me ocurran desgracias, aunque no he
+hecho nada malo”.
+Esta escala mide la tendencia o disposición a experimentar sentimientos de
+culpa, como característica actitudinal (rasgo) de la persona. Es decir, a ser propenso
+a culpabilizarse. Cuanta más puntuación obtenga una persona en esta escala, más
+insegura, más aprensiva, más atormentada, más preocupada y más meticulosa será.
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+127
+
+Se piensa que los sujetos con mayores puntuaciones presentarán manifestaciones
+clínicas de psicopatología cuando se enfrenten a vivencias de culpa. Tiene una
+consistencia interna adecuada (Alfa de Cronbach = .88), y ha sido puesto a prueba
+satisfactoriamente en algunos estudios como el realizado con toxicómanos y
+pacientes con SIDA (García, Gorospe, López y Vázquez, 1997). Además, presenta
+una aceptable validez concurrente con el 16 PF (r=.64).
+3. Escala de Sentimiento de Culpa (ESC; Berrios et al., 1992)
+Es una escala cuyo objetivo es identificar y cuantificar diferentes aspectos
+relacionados con la culpa en el trastorno depresivo mayor. Además, pretende
+aplicarse en estudios de correlación con posibles marcadores neurobiológicos. Se
+trata de un cuestionario de lápiz y papel de 7 ítems con cuatro opciones de respuesta
+que puntúan de 0 a 2. Los resultados del análisis factorial han aislado dos factores,
+claramente definidos, responsables del 58% de la varianza: 1) culpa cognitiva/
+actitudinal (ítems 2, 4, 5, 7) relacionada con la vergüenza y la culpa delirante y 2)
+culpa humor/sentimiento (ítems 1, 3, 6) relacionada con la culpa afectiva.
+Berrios et al. (1992) informaron de una consistencia interna (Alfa de Cronbach)
+para los ítems 2, 4, 5 y 7 de .80, .86, .69 y .59 y para los ítems 1, 3 y 6 de .68, .83
+y .55, respectivamente.
+Está adaptado a población española por Pérez, Martín-Santos, Bulbena y
+Berrios (2000). De acuerdo con Robins, Noftle y Tracy (2007) es poco usada.
+Se presenta un resumen de los instrumentos anteriores en tabla 1.
+Tabla 1. Instrumentos disponibles en castellano.
+Identificación
+
+Aplicación y formato
+
+Escala de culpa en
+relaciones de pareja
+(Álvarez, García y
+Rivera, 2014).
+
+Cuestionario frasesEvalúa significado de la culpa,
+estímulo. Escala tipo Likert causas y consecuencias,
+con 6 intervalos de
+revaloración y efectos.
+respuesta. Consta de 72
+ítems.
+
+Escala de Sentimiento de
+Culpa (SC-35;
+Zabalegui, 1993, 1997).
+
+Escala tipo Likert que
+consta de 35 ítems con 4
+categorías de respuesta.
+
+Escala de Sentimiento de Consta de 7 ítems, con 4
+Culpa (ESC; Berrios et al., opciones de respuesta.
+1992).
+
+Dimensiones
+
+Evalúa diversos factores:
+autodesprecio, tendencia a
+culpabilizarse sin motivo,
+vergüenza, incapacidad de
+amar o ser amado sin sentir
+culpa, disposición a enmendar
+e insatisfacción con la vida
+pasada.
+Evalúa culpa
+cognitiva/actitudinal y culpa
+humor/sentimiento.
+
+128
+
+Evaluación de la culpa
+
+Instrumentos disponibles en lengua inglesa
+1. The Test of Self-Conscious Affect (TOSCA; Hanson y Tangney, 1995;
+Tangney y Dearing, 2002; Tangney, Dearing, Wagner y Gramzow, 2000; Tangney,
+Wagner y Gramzow, 1992)
+Se desarrolla a partir del Self-Conscious Affect and Attribution Inventory
+(SCAAI) de Tangney (1990b). Se trata de un cuestionario de lápiz y papel donde
+se describen varias situaciones de la vida cotidiana. Consta de 15 escenarios (10
+negativos y 5 positivos). Para cada escenario, se presentan varias reacciones
+posibles. Un ejemplo de escenario es: “Estás conduciendo por la carretera y
+atropellas a un pequeño animal”. Las reacciones serían: (A) Podrías pensar que ese
+animal no debería haber estado en la carretera. (B) Pensarías: “Soy terrible”. (C)
+Pensarías: “Bueno, es un accidente”. (D) Te sentirías mal por no haber estado más
+atento mientras estabas conduciendo.
+Todas las reacciones se califican en una escala de 5 puntos, donde el sujeto ha
+de elegir entre 1 (no probable) y 5 (muy probable), según su tendencia a responder
+de esa manera. Se trata de evaluaciones percibidas (lo que uno cree que haría).
+Una ventaja de las medidas basadas en escenarios es que dependen menos de
+las habilidades verbales de los sujetos, por ejemplo, no es necesario que sepan
+distinguir entre los constructos de vergüenza y culpa (Rüsch, Corrigan, Bohus,
+Jacob, Brueck y Lieb 2007).
+El cuestionario incluye las seis subescalas siguientes:
+1. Propensión a la vergüenza: definida como la tendencia a realizar evaluaciones negativas sobre sí mismo. Es un buen predictor de los sentimientos de culpa,
+vergüenza y otras emociones autocriticas pero no predice acción compensatoria.
+Las personas propensas a la vergüenza se enfocan en los aspectos negativos,
+estables e invariables del self, lo que les dirige a sentirse indefensos, a exteriorizar
+la culpa, a escapar y a tener más comportamientos contraproducentes (Fontaine,
+Luyten, De Boeck y Corveleyn, 2001).
+2. Propensión a la culpa: definida como la motivación para la reparación y no
+tanto como los sentimientos de culpa, es decir, la tendencia a responder a las malas
+acciones propias con una acción compensatoria. Para evitar confusiones consideramos que una mejor etiqueta sería “propensión a la reparación”.
+Los ítems que diferencian predisposición a la culpa de predisposición a la
+vergüenza son ítems que tratan sobre comportamiento reparador, no sobre la
+experiencia afectiva de culpa. Las correlaciones entre la escala de propensión a la
+culpa y los sentimientos crónicos de culpa son muy bajas. En cambio, la escala de
+predisposición a la vergüenza correlaciona fuertemente con sentimientos de vergüenza y culpa crónicas (Fontaine et al., 2001).
+3. Alfa orgullo: referido al orgullo global del self (de sí mismo).
+4. Beta orgullo: referido al orgullo de una conducta específica o un logro (de
+lo que uno hace).
+5. Externalización de la culpa: tendencia a culpar a otros.
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+129
+
+6. Distanciamiento-despreocupación: minimización de la seriedad de la
+situación.
+La validez de constructo de este cuestionario ha sido criticada porque
+conceptualiza la predisposición a la culpa como un estilo de acción muy adaptativo
+(Harder, 1995) y porque esta predisposición no está relacionada con un constructo
+de culpa latente (Ferguson y Crowley, 1997).
+Tangney y Dearing (2002), informaron de una consistencia interna (Alfa de
+Cronbach) para la escala de vergüenza de .77, para la escala de culpa .78, para alfa
+orgullo .48, para beta orgullo .51, para externalización de la culpa .75 y para
+distanciamiento .72.
+De acuerdo con Robins et al. (2007) es frecuentemente usado.
+Aunque no está validado en población española, en el estudio de Rodríguez,
+Cañas, Pinto, Gotzone y Ugartechea (2005) se realizó una validación preliminar
+llevando a cabo un análisis de validez concurrente y discriminante. Además,
+calcularon la consistencia interna mediante el Alfa de Cronbach para cada una de
+las subescalas. Los resultados que encontraron fueron alentadores para continuar
+investigando sobre este cuestionario, proporcionando las bases para utilizarlo en
+muestras españolas en el futuro.
+2. The Guilt Inventory (GI; Jones, 2000; Jones, Schratter y Kugler, 2000;
+Kugler, 1989; Kugler y Jones, 1992)
+Se trata de un cuestionario de lápiz y papel de 45 ítems con opciones de
+respuesta según una escala de 5 opciones (fuertemente en desacuerdo, desacuerdo,
+indeciso, de acuerdo y fuertemente de acuerdo). Se desarrolló utilizando el método
+racional para medir culpa como rasgo y estado, así como estándares morales
+generales. En esta escala se evalúan tanto las experiencias recientes como las
+tendencias generales a experimentar las formas desadaptativas de culpa y arrepentimiento. Se utiliza principalmente en investigación clínica y de personalidad.
+Incluye tres subescalas:
+1. Culpa-rasgo: definida como un sentido continuado de culpa más allá de las
+circunstancias inmediatas. Incluye 20 ítems.
+2. Culpa-estado: definida como sentimientos de culpa a partir de una transgresión actual o reciente. Incluye 10 ítems.
+3. Estándares morales: definida como un código de principios morales
+generales sin referencia a conductas o creencias específicas. Incluye 15 ítems.
+Un ejemplo de ítem sería: “Hace poco he hecho algo que lamento profundamente”.
+Kugler y Jones (1992) informaron de una consistencia interna (Alfa de
+Cronbach) para culpa-rasgo de .89, para culpa-estado de .83, y para estándares
+morales de .81, en una muestra de 1041 adultos. La fiabilidad test-retest sobre un
+intervalo de 10 semanas fue de .72 para culpa-rasgo, .56 para culpa-estado y .81
+para estándares morales.
+Según los autores, las escalas de culpa rasgo y culpa estado han demostrado
+
+130
+
+Evaluación de la culpa
+
+fuertes correlaciones con depresión, ansiedad, soledad y timidez. Indican que tener
+una puntuación alta en la subescala culpa rasgo está inversamente relacionado con
+auto-descripciones de sentirse satisfecho, confortable y competente.
+De acuerdo con Robins et al. (2007) es frecuentemente usado.
+En México, Fernández de Ortega y Reidl (2005) estandarizaron la escala de
+Kugler y Jones (1992) que evalúa la culpa como rasgo, estado y los estándares
+sociales. Sin embargo, a pesar de considerar las interacciones interpersonales, no
+está dirigida a las relaciones amorosas.
+3. Interpersonal Guilt Questionnaire (IGQ-45/IGQ-67; O’Connor, Berry,
+Weiss, Bush y Sampson, 1997)
+Se trata de un cuestionario desarrollado para medir la culpa en relación con la
+creencia a hacer daño a otras personas. A diferencia de las anteriores, este
+instrumento se centra en aspectos interpersonales del sentimiento de culpa. La
+primera versión (IGQ-45) consta de 45 ítems basados en observación clínica y
+teórica. Para mejorar la fiabilidad, se desarrolló la otra versión (IGQ-67), con un
+número de ítems mayor en cada subescala y una mayor correlación entre los ítems.
+Se compone de cuatro subescalas:
+1. Culpa por sobrevivir: derivada de la creencia de que a uno le van mejor las
+cosas que a otros en la vida en general y, por supuesto, ante la muerte. Ejemplos de
+ítems de esta escala serían: “Oculto o minimizo mi éxito” y “Me siento incómodo
+hablando de mis logros en situaciones sociales”.
+2. Culpa por separación/deslealtad: provocada por no estar cerca de las
+personas significativas. Por ejemplo: “Pienso que pueden ocurrirle cosas malas a
+mi familia si no estoy en contacto con ellos” y “Prefiero hacer las cosas del modo
+que las hicieron mis padres”.
+3. Culpa por responsabilidad omnipotente: derivada de la creencia de que uno
+es responsable del bienestar de las personas que le rodean y que uno tiene el poder
+para hacer felices a los demás. Frecuentemente, las personas que sienten culpa por
+sobrevivir y por separación también sienten este tipo de culpa. Ítems característicos
+de esta subescala son “Me preocupo mucho por mis padres, hijos o hermanos” y “Es
+muy difícil para mí cancelar los planes si sé que la otra persona está deseando
+verme”.
+4. Odio contra uno mismo: autodesprecio por errores e incapacidad. Según
+O’Connor et al. (1997), es una forma de culpa que puede presentarse de acuerdo con
+padres severos castigadores y negligentes. Las personas aceptarían esta visión
+negativa de sí mismos para mantener una conexión con sus padres u otros seres
+queridos. Ejemplos de ítems de esta subescala son: “Si algo malo me ocurre, siento
+que lo merezco” y “No merezco el respeto ni la admiración de otras personas”.
+Los ítems deben responderse utilizando una escala de 5 puntos.
+O’Connor et al. (1997) informaron para la versión de 45 ítems de una
+consistencia interna (Alfa de Cronbach) para culpa por sobrevivir de .79 (26 ítems),
+para culpa por separación/deslealtad de .64 (5 ítems), para culpa por responsabi-
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+131
+
+lidad omnipotente de .74 (8 ítems) y para odio contra uno mismo de .85 (6 ítems).
+Para la versión de 67 ítems se obtuvo: para culpa por sobrevivir, .85 (22 ítems), para
+culpa por separación/deslealtad, .82 (15 ítems), para culpa por responsabilidad
+omnipotente .83 (14 ítems) y para odio contra uno mismo de .87 (16 ítems).
+Según los autores, ambas versiones cuentan con una adecuada consistencia
+interna. Sin embargo, el IGQ-67 parece tener mejores propiedades psicométricas
+debido a que se desarrolló con un número mayor de ítems iniciales, permitiendo la
+selección de los más fiables. Aunque no existe una subescala de vergüenza, los
+autores señalan que existe una relación muy fuerte entre ésta y la subescala de culpa
+por sobrevivir.
+Es usado principalmente en investigaciones clínicas. De acuerdo con Robins
+et al. (2007) es utilizado ocasionalmente.
+4. Guilt Sensitivity Scale (GSS; Perdighe et al., 2015)
+Evalúa la sensibilidad a los sentimientos de culpa investigando la tendencia a
+evitar estos sentimientos, su influencia en la vida de la persona y su capacidad para
+tolerarlo. Los autores definen la sensibilidad a la culpa como la tendencia a
+sobreestimar las consecuencias de experimentar culpa, tanto en términos de
+intolerabilidad y el significado catastrófico que se asocia a esta experiencia
+emocional, como las consecuencias sobre la propia vida a nivel social e interpersonal
+(por ejemplo, la estigmatización). Consta de 10 ítems, y cada ítem se responde
+mediante una escala de 7 puntos, que va desde 1 (nunca), hasta 7 (siempre).
+Ejemplos de ítem serían: “Tengo la impresión de que la gente tolera la culpa
+mejor que yo” y “Tengo miedo a ser regañado”. Tras el análisis estadístico, se
+encontraron dos factores: el primero es la experiencia emocional negativa, que mide
+el rasgo doloroso e inaceptable de la experiencia de culpa y a la vez la dificultad para
+lidiar con ello psicológicamente. Según los autores, la consistencia interna de este
+factor sería de .79. El segundo factor es el miedo a la culpa y a la reprimenda. Es
+decir, la culpa anticipatoria y el temor a sus consecuencias. Encontraron una
+consistencia interna de .63.
+5. Inappropriate and Excessive Guilt Scale (IEGS; Tilghman-Osborne, Cole
+y Felton, 2012)
+Los investigadores tienden a estar de acuerdo en que el concepto más amplio
+de culpa incluye inherentemente un sentido de responsabilidad (Barrett, Zahn)
+Waxler y Cole, 1997; Caprara, Manzy y Perugini, 1992; O’Connor, Berry y
+Weiss, 1999; Zahn-Waxler y Kochanska, 1990). Estos autores definen la culpa
+como una combinación de afecto negativo y la creencia de que uno es responsable
+de un resultado particular. Sugieren que la culpabilidad se vuelve inapropiada
+cuando involucra “preocupaciones o rumiaciones sobre fallos menores”. Una de
+esas manifestaciones de culpa se produce cuando las personas asumen la responsabilidad de los resultados sobre los cuales tienen poco o ningún control. TilghmanOsborne, Cole y Felton (2010), definen el aspecto inapropiado de la culpa como las
+cogniciones negativas asociadas con la asunción errónea de la responsabilidad.
+
+132
+
+Evaluación de la culpa
+
+Asimismo, consideran que el aspecto excesivo de la culpa es el efecto negativo
+desproporcionado en respuesta a un contratiempo para el cual se ha asumido tal
+responsabilidad. En la creación de este instrumento, los autores se enfocaron
+explícitamente en la experiencia de culpabilidad y trataron de evitar la contaminación de la deseabilidad social y otros constructos como la depresión, la ansiedad y
+la somatización. Esta escala cuenta con 24 escenarios hipotéticos que reflejan una
+amplia gama de situaciones. Para cada escenario, construyeron dos posibilidades,
+una reflejando culpa inapropiada y la otra reflejando una culpabilidad excesiva. Los
+sujetos deben responder cada ítem con una escala de Likert de 3 puntos (0 = No en
+absoluto, 1 = Un poco, 2 = Mucho). Un ejemplo de ítem sería: “Tu madre dice que
+quiere un libro para su cumpleaños. Le regalas ese libro, pero a ella no le gusta”.
+Culpa inapropiada: “Pensaría: Es mi culpa, arruiné su cumpleaños”.
+Culpa excesiva: “Me sentiría mal cada vez que viera el libro”.
+Otro ejemplo: “Tus abuelos están de vacaciones y se olvidan de enviarte una
+tarjeta de cumpleaños”.
+Culpa inapropiada: “Pensaría usted: Hice algo malo”.
+Culpa excesiva: “Seguiría pensando en todas las cosas malas que hice que
+podrían haber causado”.
+La prueba ha demostrado una consistencia interna (Alfa de Cronbach) de .94.
+Los niños y adolescentes no suelen ser capaces de experimentar una culpa
+inapropiada sin experimentar también una culpabilidad excesiva, y viceversa.
+Se encontró evidencia de validez de convergencia, discriminante y de constructo
+de la IEGS. Apoyando la validez convergente, el IEGS correlacionó
+significativamente con otras medidas de culpabilidad. Apoyando la validez discriminante, el IEGS no estaba relacionado con una medida de deseabilidad social, lo
+que indica que las respuestas de los participantes no fueron excesivamente afectadas por el sesgo de respuesta positiva. Apoyando la validez de constructo, el IEGS
+se relacionó significativamente con las medidas de los errores cognitivos negativos
+y la depresión.
+6. Trauma related guilt inventory (TRGI; Kubany, 2004; Kubany et al., 1995;
+Kubany et al., 1996; Kubany y Haynes, 2001; Kubany y Watson, 2003)
+Incluye 32 ítems distribuidos en tres escalas y con un formato de respuesta tipo
+Likert: 0 (nada cierto/nunca), 1 (un poco cierto/raras veces), 2 (algo cierto/algunas
+veces), 3 (muy cierto/frecuentemente) y 4 (totalmente cierto/siempre). Es un
+autoinforme aplicable a adultos a partir de los 18 años con un mínimo nivel de
+lectura.
+Evalúa aspectos cognitivos y emocionales de la culpa asociada a un acontecimiento traumático (guerras, accidentes de tráfico, abuso sexual o psicológico o
+muerte de un ser querido). Para los autores, la culpa se define como un sentimiento
+displacentero que se acompaña de creencias sobre que uno debería haber pensado,
+sentido o actuado diferente y supone responsabilidad, sensación de haber obrado
+mal y/o de insuficiente justificación de actos realizados. Se desarrolló a partir del
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+133
+
+trabajo clínico con supervivientes de trauma, revisiones bibliográficas, escalas de
+culpa disponibles y entrevistas estructuradas seguidas de análisis factorial
+exploratorio.
+Las escalas son:
+1. Escala de culpa global: formada por cuatro ítems y entendida como una
+combinación entre malestar emocional y creencias de culpa.
+2. Escala de malestar emocional: formada por siete ítems que evalúan el nivel
+de malestar que siente el individuo por el acontecimiento traumático. Se trata de una
+escala altamente correlacionada con medidas de depresión y de trastorno por estrés
+postraumático.
+3. Escala de cogniciones de culpa: formada por 16 ítems distribuidos en tres
+subescalas: 1) la escala de sesgo por retrospección/responsabilidad (7 ítems), 2)
+la escala de obrar mal (5 ítems) y 3) la escala de insuficiente justificación (4 ítems).
+Seis ítems más que se refieren a cogniciones generales y que no se agrupan de forma
+exclusiva en ninguna de las tres subescalas en los análisis factoriales realizados.
+Las tres subescalas, dentro de las cogniciones de culpa, se definen como:
+1. Sesgo por retrospección/responsabilidad: se refiere a la responsabilidad
+percibida por un acontecimiento o consecuencia negativos y al sesgo que implica
+juzgar las acciones, conductas y emociones pasadas en función de la información
+que se tiene sobre la situación en el presente.
+2. Obrar mal: definida como la percepción de haber violado los valores
+propios y estrechamente relacionada con el concepto de culpa religiosa y pecado.
+3. Insuficiente justificación: evalúa la justificación que el individuo da a las
+acciones que llevó a cabo ante el acontecimiento traumático y la validez de las
+razones que esgrime para actuar como lo hizo.
+Ejemplos de ítems serían: “Aún me siento angustiado por lo que sucedió”, “Me
+siento culpable por lo que pasó” o “Tuve sentimientos que no debería haber tenido”.
+El cuestionario también permite evaluar, a través de cinco preguntas, el tipo
+de culpa que experimenta el individuo relacionada con los sentimientos que tuvo y
+no tuvo durante el acontecimiento, los pensamientos que tuvo durante el acontecimiento, así como su actuación y su falta de respuesta durante tal suceso. Los autores
+también proponen analizar aquellas respuestas extremas (muy cierto, siempre) a
+determinados ítems que consideran críticos, puesto que indican importantes
+distorsiones en el individuo respecto a su responsabilidad en el acontecimiento,
+mala actuación durante el mismo, sesgo por retrospección e insuficiente justificación para su comportamiento.
+El TRGI ha demostrado una fiabilidad satisfactoria, con un Alfa de Cronbach
+entre .67 y .82 para las subescalas de sesgo por retrospección/responsabilidad,
+obrar mal y la subescala de insuficiente justificación; y entre .86 y .90 para las otras
+tres escalas. Cuenta también con una validez adecuada (mediante análisis factorial
+confirmatorio y correlaciones con otros instrumentos) en grupos de personas que
+han experimentado estresores traumáticos (veteranos de guerra, mujeres que han
+
+134
+
+Evaluación de la culpa
+
+sufrido violencia física y víctimas de accidentes).
+De acuerdo con Robins et al. (2007) es raramente usado.
+Fue validada al español por Pereda, Arch, Peró, Guàrdia y Forns (2011) en una
+muestra de universitarios. La adaptación que proponen demostró una validez de
+criterio más que satisfactoria. A través de un análisis factorial confirmatorio se
+corroboró la validez de constructo del TRGI, incluida la diferenciación entre los
+componentes emocional y cognitivo. Además, la estructura factorial de la escala
+original mostró un alto nivel de validez interna. En este estudio, los autores
+concluyen que el TRGI es una herramienta efectiva para evaluar la culpa tras
+eventos vitales traumáticos en población española.
+Existen numerosos estudios que han utilizado el TRGI para investigar las
+experiencias de culpa en diferentes muestras. Owens, Chard y Cox (2008) utilizaron
+este cuestionario en una muestra de veteranos de guerra. Otro estudio se realizó con
+delincuentes violentos y agresores sexuales (Crisford, Dare, y Evangeli, 2008).
+Resick, Nishith, Weaver, Astin y Feuer (2002) llevaron a cabo la investigación en
+una muestra de 171 mujeres víctimas de abusos y violencia sexual.
+7. Personal Feelings Questionnaire (PFQ-2; Harder y Zalma, 1990)
+Es una lista de palabras. Inicialmente fue desarrollado por Harder y Lewis
+(1987) con el fin de medir la frecuencia de la culpa y la vergüenza, dos emociones
+autoconscientes difíciles de distinguir empíricamente. Tiene dos escalas, una de
+culpa y otra de vergüenza. Consta de 21 ítems, de los cuales 6 ítems miden culpa
+(culpa moderada; preocupación sobre herir o perjudicar a alguien, culpa intensa,
+arrepentimiento; sentimiento de pesar y sentimiento de merecer críticas por lo que
+hiciste) y 10 evalúan vergüenza (avergonzado, sentirse ridículo, autoconciencia,
+sentirse humillado, sentirse “estúpido”, sentirse “infantil”, sentirse indefenso,
+paralizado; sentirse ruborizado; sentir que se ríen de uno y sensación de desagradar
+a los demás). Los ítems restantes, no se puntúan.
+Los sujetos tienen que leer palabras como “remordimiento” o “sentirme
+ridículo” e indicar con qué frecuencia experimentan estos sentimientos. Se debe
+puntuar cada ítem con una escala Likert de 0 a 4 puntos (0=Nunca, 1=Pocas veces,
+2=Algunas veces, 3=Bastantes veces, 4=Muchas veces).
+Harder y Lewis (1987) y Harder y Zalma (1990) informaron de una consistencia interna de .78 para vergüenza y .72 para culpa. La fiabilidad test-retest fue de .91
+para vergüenza y .85 para culpa.
+Tiene una alta validez aparente, pero ha sido criticado por dos motivos. El
+primero de ellos es porque depende de la habilidad abstracta de los sujetos para
+entender y ser capaces de distinguir la diferencia entre culpa y vergüenza y las
+escalas de contenido. El segundo motivo, lo constituye el hecho de que rellenando
+la lista de palabras, los sujetos hacen declaraciones sobre sí mismos sin un contexto
+situacional. Esto puede ser adecuado para medir la propensión a la vergüenza pero
+no para la predisposición a la culpa pues ésta se encuentra asociada a un comportamiento en una situación específica. Este hecho hace que probablemente limita el
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+135
+
+potencial de la lista para medir la diferencia entre predisposición a la culpa y a la
+vergüenza.
+Hay una adaptación española realizada por Popa y Martínez-Arias (2013). En
+ella, se validó con una muestra de 2816 sujetos y obtuvo un Alfa de Cronbach .82
+para el factor culpa y .83 para el factor vergüenza. De acuerdo a los resultados la
+versión española es conceptualmente equivalente a la original.
+Para un resumen de los instrumentos anteriores véase tabla 2.
+CONCLUSIONES
+De la revisión que se ha realizado se desprenden una serie de limitaciones. La
+mayoría de instrumentos no delimitan bien culpa y vergüenza. Existe una confusión
+entre diferentes procesos de la culpa: estado/rasgo de la culpa, estado emocional de
+la culpa, eventos o situaciones de culpa, efectos de la culpa, tendencias de acción
+y estrategias de afrontamiento. La mayoría miden más la propensión a sentir culpa
+sin un contexto social que la culpa provocada por una situación concreta. Al mismo
+tiempo, no todos los instrumentos desarrollados han aportado información acerca
+de sus propiedades psicométricas. Son escasos los instrumentos que han sido
+adaptados y validados en población española. Por otro lado, ninguno de los
+instrumentos disponibles habían sido desarrollados para la evaluación de los
+elementos relacionales y estratégicos de la culpa. Desde la perspectiva de la práctica
+clínica, es preciso desarrollar instrumentos específicos de evaluación de procesos
+de culpa y diseñar módulos específicos de tratamiento para los mismos.
+No cabe duda que la disposición de instrumentos de medida con una adecuada
+calidad son necesarios para el avance de la investigación. En este trabajo, se ha
+presentado un conjunto de instrumentos que pueden ser de utilidad a la investigación y a los profesionales que trabajan en salud mental, especialmente a psicólogos
+clínicos y psicoterapeutas. Los resultados ponen de manifiesto que en el momento
+actual faltan instrumentos validados en castellano para poder investigar adecuadamente procesos de culpa implicados en psicopatología y psicoterapia. Futuros
+trabajos deberían seguir examinado los diferentes procesos que componen la culpa
+y las propiedades psicométricas de este conjunto de instrumentos con la finalidad
+de mejorar la evaluación de los procesos de culpa en la edad adulta.
+
+Evaluación de la culpa
+
+136
+Tabla 2. Instrumentos disponibles en inglés.
+Identificación
+
+Aplicación y formato
+
+Dimensiones
+
+The Test of Self-Conscious
+Affect (TOSCA; Hanson y
+Tangney, 1995; Tangney y
+Dearing, 2002; Tangney,
+Dearing, Wagner y
+Gramzow, 2000; Tangney,
+Wagner y Gramzow, 1992).
+
+Consta de 15 escenarios
+donde para cada situación
+se describen posibles
+reacciones calificadas en
+una escala de 5 puntos.
+
+Se incluyen las siguientes
+subescalas: propensión a la
+vergüenza, propensión a la
+culpa, orgullo global de sí
+mismo, orgullo de una
+conducta específica o logro,
+externalización de la culpa y
+distanciamientodespreocupación.
+
+Guilt Inventory (GI; Jones,
+2000; Jones, Schratter y
+Kugler, 2000; Kugler, 1989;
+Kugler y Jones, 1992).
+
+Consta de 45 ítems con
+opciones de respuesta
+según una escala de 5
+opciones.
+
+Incluye tres subescalas:
+culpa-rasgo, culpa-estado y
+estándares morales.
+
+Interpersonal Guilt
+Questionnaire (IGQ-45/IGQ67; O’Connor, Berry, Weiss,
+Bush y Sampson, 1997).
+
+Consta de 45 ítems en su
+Se compone de las
+primera versión (IGQ-45) y siguientes subescalas: culpa
+de 67 en la segunda (IGQ- por sobrevivir, culpa por
+67), utilizando una escala de separación/deslealtad, culpa
+5 puntos. Están basados en por responsabilidad
+la observación clínica y
+omnipotente y odio contra
+teórica.
+uno mismo.
+
+Guilt Sensitivity Scale (GSS; Consta de 10 ítems, y cada Se evalúan dos factores: la
+Perdighe et al., 2015).
+ítem se responde mediante experiencia emocional
+una escala de 7 puntos.
+negativa y el miedo a la
+culpa y a la reprimenda.
+Inappropriate and Excessive Se trata de una escala tipo
+Guilt Scale (IEGS; Tilghman- Likert de 3 puntos. Consta
+Osborne, Cole y Felton,
+de 24 escenarios que
+reflejan diferentes
+2012).
+situaciones, construyendo
+dos posibilidades para cada
+escenario.
+
+Evalúa la experiencia de
+culpabilidad, centrándose en
+la culpa inapropiada y la
+culpa excesiva.
+
+Trauma related guilt
+inventory (TRGI; Kubany et
+al., 1995; Kubany et al.,
+1996; Kubany y Haynes,
+2001; Kubany y Watson,
+2003).
+
+Incluye 32 ítems distribuidos
+en 3 escalas y con un
+formato de respuesta tipo
+Likert.
+
+Consta de tres escalas:
+culpa global, malestar
+emocional y cogniciones de
+culpa y tres subescalas:
+sesgo por retrospección/
+responsabili ad, obrar mal e
+insuficiente justificación.
+
+Personal feelings
+questionnaire (PFQ-2;
+Harder y Zalma, 1990).
+
+Consta de 21 ítems y
+presenta dos escalas, una
+de culpa y otra de
+vergüenza. Se puntúa cada
+ítem con una escala Likert
+de 0 a 4 puntos.
+
+Evalúa la frecuencia de la
+culpa y la vergüenza, dos
+emociones autoconscientes
+difíciles de distinguir
+empíricamente.
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+137
+
+Referencias bibliográficas
+Álvarez, E., García, M. y Rivera, S. (2014). Medición de la culpa en la relación de pareja. Ciencias Psicológicas,
+8(2), 115-128.
+Barrett, K. C., Zahn-Waxler, C. y Cole, P. M. (1997). Avoiders vs. amenders: Implications for the investigation of
+guilt and shame during toddlerhood. Cognition and Emotion, 7, 481–505. https://bit.ly/2YHOs7O
+Berrios, G. E., Bulbena, A., Bakshi, N., Dening, T. R., Jenaway, A., Markar, H., Martín-Santos, R. y Mitchell, S.
+L. (1992). Feelings of guilt in major depression: conceptual and psychometric aspects. British Journal of
+Psychiatry, 160, 781-787. http://dx.doi.org/10.1192/bjp.160.6.781
+Caprara, G. V., Manzi, J., y Perugini, M. (1992). Investigating guilt in relation to emotionality and
+aggression. Personality and Individual Differences, 13(5), 519-532. https://bit.ly/2XXmOXb
+Castilla del Pino, C. (1973). La culpa. Madrid, España: Alianza.
+Castilla del Pino, C. (2000). Teoría de los sentimientos. Barcelona, España: Tusquets.
+Chorot, P., Pérez-Llantada, C. y Sandín, B. (2008). Métodos de investigación en psicopatología. En A. Belloch, B.
+Sandín y F. Ramos (Coords.), Manual de psicopatología. Edición revisada, Volumen I (pp. 69-92). Madrid,
+España: McGraw-Hill.
+Colina, F. (2001). El saber delirante. Madrid, España: Síntesis.
+Colina, F. (2011). Melancolía y paranoia. Madrid, España: Síntesis.
+Crisford, H., Dare, H. y Evangeli, M. (2008). Offence-related posttraumatic stress disorder (PTSD) symptomatology
+and guilt in mentally disordered violent and sexual offenders. The Journal of Forensic Psychiatry &
+Psychology, 19(1), 86-107. https://doi.org/10.1080/14789940701596673
+Echeburúa, E., Corral, P. y Amor, P. J. (2001). Estrategias de afrontamiento ante los sentimientos de culpa. Análisis
+y modificación de conducta, 116(27), 905-929.
+Etxebarria, I. (2014). Las emociones autoconscientes: culpa, vergüenza y orgullo. En E. G. Fernández-Abascal, B.
+García, M. P. Jiménez, M. D. Martín, y F. J. Domínguez (Coords.), Psicología de la emoción (pp. 431-491).
+Madrid, España: Centro de Estudios Ramón Areces.
+Ferguson, T. J. y Crowley, S. L. (1997). Measure for measure: A multitrait–multimethod analysis of guilt and
+shame. Journal of Personality Assessment, 69(2), 425-441. https://doi.org/10.1207/s15327752jpa6902_12
+Fernández de Ortega, B. H. y Reidl, M. L. (2005). Adaptación del inventario de culpa rasgo-estado y estándares
+morales para la muestra mexicana de Jones, Schratter y Kugler. Revista Mexicana de Psicología, 22(2), 513517.
+Fitzgeral, S. F. (2015). El gran Gastby. Buenos Aires, Argentina: LEA.
+Fontaine, J. R. J., Luyten, P., De Boeck, P. y Corveleyn, J. (2001). The test of self-conscious affect: internal
+structure, differential scales and relationships with long-term affects. European Journal of
+Personality, 15, 449–463. https://doi.org/10.1002/per.428
+Freud, S. (1974). El malestar en la cultura. En S. Freud, Obras Completas, Tomo VIII (pp. 3017-3067). Madrid,
+España: Biblioteca Nueva.
+García, Y., Gorospe, A., López, A. B. y Vázquez, I. (1997). Culpa en toxicomanías y SIDA. Clínica y Salud, 8(2),
+333-346.
+García_Haro, J. (2014a). Culpa, reparación y perdón: implicaciones clínicas y terapéuticas (I). Revista de
+Psicoterapia, 25(97), 179-210. Recuperado de: https://bit.ly/2Ggy6fl
+García-Haro, J. (2014b). Culpa, reparación y perdón: implicaciones clínicas y terapéuticas (II). Revista de
+Psicoterapia, 25(98), 93-122. Recuperado de: https://tienda.revistadepsicoterapia.com/rp98-07.html
+García-Haro, J. (2014c). Culpa, reparación y perdón: implicaciones clínicas y terapéuticas (III). Revista de
+Psicoterapia, 25(99), 135-164. Recuperado de: https://bit.ly/2YIh2Wv
+García-Haro, J. (2015). Tres concepciones de la culpa: historia y psicoterapia. Clínica e Investigación Relacional.
+Revista electrónica de Psicoterapia, 9(1), 187-205.
+Grinberg, L. (1983). Culpa y depresión. Madrid, España: Alianza.
+Grinberg, L. (2005). Sobre dos tipos de culpa. Su relación con los aspectos normales y patológicos del duelo. Revista
+de Psicoanálisis de la Asoc. Psic. de Madrid, 45, 59-72.
+Hanson, R. K. y Tangney, J. P. (1995). The test of self-conscious affect-socially deviant populations (TOSCA-SD).
+Ottawa, Canada: Corrections Research, Department of the Solicitor General of Canada.
+Harder, D. W. (1995). Shame and guilt assessment, and relationships of shame -and guilt- proneness to
+psychopathology. En J. P. Tangney y K.W. Fischer (Eds.), Self-conscious emotions: The psychology of
+shame, guilt, and embarrassment, and pride (pp. 368-392). Nueva York, NY: Guilford Press.
+
+138
+
+Evaluación de la culpa
+
+Harder, D. W. y Lewis, S. J. (1987). The assessment of shame and guilt. Advances in personality assessment, 6,
+89-114.
+Harder, D. W. y Zalma, A. (1990). Two promising shame and guilt scales: A construct validity comparison. Journal
+of Personality Assessment, 55(3-4), 729-745. http://dx.doi.org/10.1080/00223891.1990.9674108
+Harder, D. W., Cutler, L. y Rockart, L. (1992). Assessment of shame and guilt and their relationships to
+psychopathology. Journal of Personality Assessment, 59, 584-604. https://bit.ly/2S0X72s
+Hoffman, M. L. (1998). Varieties of empathy-based guilt. En J. Bybee (Ed.), Guilt and children (pp. 91-112). San
+Diego, CA: Academic Press.
+Hoffman, M. L. (2000). Desarrollo moral y empatía. Barcelona, España: Idea Books.
+Jones, W. H. (2000). The guilt inventory. En J. Maltby, C. A. Lewis y A. Hill (Eds.), A handbook of psychological
+tests (pp. 723-724). Lampeter, Reino Unido: Edwin Mellen Press.
+Jones, W. H., Schratter, A. K. y Kugler, K. (2000). The guilt inventory. Psychol. Rep., 87, 1039-42. http://
+dx.doi.org/10.2466/pr0.2000.87.3f.1039
+Klein, M. (2016). Amor, culpa y reparación. Barcelona, España: Paidós.
+Kubany, E. S. (2004). The trauma related guilt inventory (TRGI). Assessing and treating PTSD manual. Los
+Angeles, CA: Western Psychological Services.
+Kubany, E. S., Abueg, F. R., Owens, J. A., Brennan, J. M., Kaplan, A. S. y Watson, S. B. (1995). Initial examination
+of a multidimensional model of trauma-related guilt: applications to combat veterans and battered women.
+Journal of Psychopathology and Behavioral Assessment, 17, 353-376. https://doi.org/10.1007/BF02229056
+Kubany, E. S. y Haynes, S. N. (2001). Trauma related guilt inventory. Manual. Los Angeles, CA: Western
+Psychological Services.
+Kubany, E. S, Haynes, S. N., Abueg, F. R, Manke, F. P., Brennan, J. M. y Stahura, C. (1996). Development and
+validation of the trauma-related guilt inventory (TRGI). Psychological Assessment, 8, 428-444. http://
+dx.doi.org/10.1037/1040-3590.8.4.428
+Kubany, E. S. y Watson, S. B. (2003). Guilt: Elaboration of a multidimensional model. The Psychological Record,
+53, 51-90.
+Kugler, K.E. (1989). Guilt: Conceptualization and measurement (Tesis doctoral no publicada). University of Tulsa,
+OK.
+Kugler, K. y Jones, W. H. (1992). On conceptualizing and assessing guilt. Journal of Personality and Social
+Psychology, 62, 318-327. http://dx.doi.org/10.1037/0022-3514.62.2.318
+Lewis, H. B. (1971). Shame and guilt in neurosis. Nueva York, NY: International Universities Press.
+Lewis, M. (1992). Commentary: The self in self-conscious emotions. Monographs of the Society for Research in
+Child Development, 57(1), 85-95. https://doi.org/10.1111/j.1540-5834.1992.tb00297.x
+O'Connor, L. E., Berry, J. W., Weiss, J., Bush, M. y Sampson, H. (1997). Interpersonal guilt: the development of
+a new measure. Journal of Clinical Psychology, 53(1), 73-89.
+O'Connor, L. E., Berry, J. W. y Weiss, J. (1999). Interpersonal guilt, shame, and psychological problems. Journal
+of Social and Clinical Psychology, 18, 181-203. http://dx.doi.org/10.1521/jscp.1999.18.2.181
+Owens, G. P., Chard, K. M. y Cox, T. (2008). The relationship between maladaptive cognitions, anger expression,
+and posttraumatic stress disorder among veterans in residential treatment. Journal of Aggression, Maltreatment
+& Trauma, 17(4), 439-452. https://doi.org/10.1080/10926770802473908
+Patiño, A. (Productor) y Buñuel (Director) (1955). Ensayo de un crimen (Película). México, México: Alianza
+Cinematográfica Española.
+Perdighe, C., Cosentino, T., Faraci, P., Gragnani, A., Saliani, A. y Mancini, F. (2015). Individual differences in guilt
+sensitivity: The Guilt Sensitivity Scale (GSS). TPM-Testing, Psychometrics, Methodology in Applied
+Psychology, 22(3), 349-362. http://dx.doi.org/10.4473/TPM22.3.3
+Pereda, N., Arch, M., Peró, M., Guàrdia, J. y Forns, M. (2011). Assessing guilt after traumatic events: The Spanish
+adaptation of the Trauma-Related Guilt Inventory. European Journal of Psychological Assessment, 27(4),
+251-257. http://dx.doi.org/10.1027/1015-5759/a000071
+Pereña, F. (2001). La pulsión y la culpa. Para una clínica del vínculo social. Madrid, España: Síntesis.
+Pérez, G., Martín-Santos, L., Bulbena, A. y Berrios, G. E. (2000). Sentimiento de culpa. En A. Bulbena, G. E.
+Berrios y P. Fernández (Coords.), Medición clínica en psiquiatría y psicología (pp. 179-183). Barcelona,
+España: Masson.
+Pérez-Sales, P. (2006). Trauma, culpa y duelo. Bilbao, España: Desclée de Brouwer.
+Popa, A. E. y Martínez-Árias, R. (2013). Validation of the personal feelings questionnaire-2 in a Spanish sample.
+TFP en Metodología de las Ciencias del Comportamiento y de la Salud (Trabajo Final de Master no
+publicado). Universidad Complutense de Madrid, Facultad de Psicología, España.
+
+REVISTA
+
+DE
+
+PSICOTERAPIA, julio, 2019, Vol. 30, Nº 113, págs. 119-139
+
+139
+
+Resick, P. A., Nishith, P., Weaver, T. L., Astin, M. C. y Feuer, C. A. (2002). A comparison of cognitive-processing
+therapy with prolonged exposure and a waiting condition for the treatment of chronic posttraumatic stress
+disorder in female rape victims. Journal of consulting and clinical psychology, 70(4), 867-879.
+Rodríguez, C. L. H., Cañas, V. G., Pinto, A. G., Gotzone, Z. y Ugartechea, J. G. (2005). Preliminary validation in
+spanish of the test of self-conscious affect (tosca). Avances en salud mental relacional, 4(3). Recuperado
+de: https://bit.ly/30kozLu
+Robins, R. W., Noftle, E. E. y Tracy, J. L. (2007). Assessing self-conscious emotions. A review of self-report and
+nonverbal measures. En J. L. Tracy, R.W. Robins y J. P. Tangney (Eds.), The Self-conscious emotions.
+Theory and Research (pp. 443-467). Nueva York, NY: The Guilford Press.
+Rüsch, N., Corrigan, P. W., Bohus, M., Jacob, G. A., Brueck, R. y Lieb, K. (2007). Measuring shame and guilt by
+self-report questionnaires: A validation study. Psychiatry Research, 150(3), 313-325. https://bit.ly/32gnbeS
+Stipek, D., Recchia, S., McClintic, S. y Lewis, M. (1992). Self-evaluation in young children. Monographs of the
+Society for Research in Child Development, 57(1), 1-100. http://dx.doi.org/10.2307/1166190
+Tangney, J. P. (1990a). Assessing individual differences in proneness to shame and guilt: Development of the SelfConscious Affect and Attribution Inventory. Personality and Social Psychology Bulletin, 18, 199-206.
+Tangney, J. P. (1990b). Assessing individual differences in proneness to shame and guilt: development of the SelfConscious Affect and Attribution Inventory (SCAAI). Journal of Personality and Social Psychology, 59(1),
+102-111.
+Tangney, J. P. (1995). Shame and Guilt in Interpersonal Relationships. En J. P. Tangney y K. W. Fischer (Eds.),
+Self-conscious emotions. The psychology of shame, guilt, embarrassment and pride (pp. 114-139). Nueva
+York, NY: Guilford Press.
+Tangney, J. P. y Dearing, R. L. (2002). Shame and guilt. Nueva York, NY: Guilford Press.
+Tangney, J. P., Dearing, R. L., Wagner, P. E. y Gramzow, R. (2000). The Test Of Self-Conscious Affect-3 (TOSCA3). Fairfax, VA: George Mason University.
+Tangney, J. P., Wagner, P. y Gramzow, R. (1992). Proneness to shame, proneness to guilt, and psychopathology.
+Journal of Abnormal Psychology, 101(3), 469-478.
+Tilghman-Osborne, C., Cole, D. A. y Felton, J. W. (2010). Definition and measurement of guilt: Implications for
+clinical research practice. Clinical Psychology Review, 30, 536-546. https://bit.ly/2XZ7ARo
+Tilghman-Osborne, C., Cole, D. A. y Felton, J. W. (2012). Inappropiate and excessive guilt: instrument validation
+and developmental differences in relation to depression. J Abnorm Child Psychol, 40(4), 607-620. http://
+dx.doi.org/10.1007/s10802-011-9591-6
+Villagrán, J. M. (2011). Culpa y psicopatología. Átopos. Salud mental, comunidad y cultura, 12, 4-16.
+Villegas, M. (2011). El error de Prometeo. Psico(pato)logía del desarrollo moral. Barcelona, España: Herder.
+Villegas, M. (2013). Prometeo en el diván. Psicoterapia del desarrollo moral. Barcelona, España: Herder
+Villegas, M. (2017). Culpa y perdón en psicoterapia. Revista de Psicoterapia, 28(108), 149-167. https://
+doi.org/10.33898/rdp.v28i108.206
+Zabalegui, L. (1993). Una escala para medir la culpabilidad. Miscelánea Comillas: Revista de Ciencias Humanas
+y Sociales, 51(99), 485-509.
+Zabalegui, L. (1997). ¿Por qué me culpabilizo tanto? Bilbao, España: Desclée De Brouwer.
+Zahn-Waxler, C. y Kochanska, G. (1990). The origins of guilt. Nebr Symp Motiv, 36, 183-258.
+
+
